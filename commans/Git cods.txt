@@ -1,0 +1,37 @@
+-----
+A = Added
+M = Modified 
+U = untrack  
+-----
+
+Git cods :
+
+
+for create git repo:
+$ git init
+
+for delet git repo:
+$ rm -rf ~/.git
+
+next checking files:
+$ git status
+
+next for checking all files:
+$ ls -la
+
+next add file to git hub:
+$ git add {file name}
+
+next add all files:
+$ git add .
+
+
+q (exit karne me kis kis me use hota hai):
+$ git log
+$ git show
+$ git diff
+
+next commit files they add in git:
+$ git commit -m "First Commit"
+
+
