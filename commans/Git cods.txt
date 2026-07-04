@@ -33,5 +33,25 @@ $ git diff
 
 next commit files they add in git:
 $ git commit -m "First Commit"
+( har bar git add . fir git commit karna hota hai)
+
+
+for checking git commit ID:
+$ git log (all details)
+$ git log --oneline (for only check git commit ID and message('-m))
+
+if you want go to old commit code:
+$ git checkout ('git Id)
+
+if you want to go master(new one or current):
+$ git switch master (means header)
+
+if you want to check branch name:
+$ git branch 
+
+if you wnat to creater a branch:
+$ git branch loging 
+
+
 
 
